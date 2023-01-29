@@ -3,6 +3,7 @@ This is a database of the awesome WHDLoad collection by Retroplay in various for
 
 Requirements: Real or emulated Amiga with 8mb fast memory.
 
-![2022122821053917](https://user-images.githubusercontent.com/71010565/209872907-b76dbf01-15b2-464b-8da6-cb2483e781f5.png)
-![2022122821054872](https://user-images.githubusercontent.com/71010565/209872909-ccd617f0-d847-4d74-9808-f86f2700c2d7.png)
-![2022122821055454](https://user-images.githubusercontent.com/71010565/209872912-b2bb7975-9f75-43bf-8a44-eb453a1fd89b.png)
+
+![002](https://user-images.githubusercontent.com/71010565/215334863-7ae5f917-491b-4609-a6ed-43626729b7bf.png)
+![003](https://user-images.githubusercontent.com/71010565/215334865-36d04406-5e05-4fd5-8b59-6e9460e1485e.png)
+![004](https://user-images.githubusercontent.com/71010565/215334866-3d0d1f39-9dc5-4162-98d5-93a25c566dd2.png)
