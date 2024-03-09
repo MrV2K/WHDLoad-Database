@@ -7,7 +7,7 @@
 @{b}           -----------------------------------@{ub}
 
 This Amigaguide database is based on the awesome WHDLoad collection
-by Retroplay. This document is up to date as of 07-03-24. The games
+by Retroplay. This document is up to date as of 09-03-24. The games
 and demos have been split alphabetically and there is a button next 
 to each entry that will show the game information.
 
@@ -55,7 +55,7 @@ WHDLoad Games  (Z)  @{"Open" link GamesZ}
 
 @{b}                 (c) 2024 Paul Vince (MrV2K)@{ub}
 
-                 (File Created : 07/03/2024)
+                 (File Created : 09/03/2024)
 @endnode
 @Node Games0
 @title WHDload Games (0-9)
@@ -832,7 +832,6 @@ WHDLoad Games  (Z)  @{"Open" link GamesZ}
 @{"Info" link "WHD-Data/Combo Racer.guide/main" 0} - Combo Racer 
 @{"Info" link "WHD-Data/Commando.guide/main" 0} - Commando 
 @{"Info" link "WHD-Data/Computer Scrabble.guide/main" 0} - Computer Scrabble 
-@{"Info" link "WHD-Data/Computer Third Reich.guide/main" 0} - Computer Third Reich 
 @{"Info" link "WHD-Data/Conan The Cimmerrian.guide/main" 0} - Conan The Cimmerrian 
 @{"Info" link "WHD-Data/Conflict - Europe.guide/main" 0} - Conflict - Europe 
 @{"Info" link "WHD-Data/Conflict - Europe Fr.guide/main" 0} - Conflict - Europe (French) 
@@ -3833,6 +3832,7 @@ WHDLoad Games  (Z)  @{"Open" link GamesZ}
 @{"Info" link "WHD-Data/Theme Park Mystery US.guide/main" 0} - Theme Park Mystery (NTSC) 
 @{"Info" link "WHD-Data/Thexder.guide/main" 0} - Thexder 
 @{"Info" link "WHD-Data/Third Courier, The.guide/main" 0} - Third Courier, The 
+@{"Info" link "WHD-Data/Third Reich.guide/main" 0} - Third Reich 
 @{"Info" link "WHD-Data/Thomas The Tank Engine.guide/main" 0} - Thomas The Tank Engine 
 @{"Info" link "WHD-Data/Thomas The Tank Engine 2.guide/main" 0} - Thomas The Tank Engine 2 
 @{"Info" link "WHD-Data/Thomas TE Pin Ball AA.guide/main" 0} - Thomas The Tank Engine's Pinball (AGA) 
