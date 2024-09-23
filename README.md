@@ -1,5 +1,5 @@
 # WHDLoad-Database
-This is a database of the awesome WHDLoad collection by Retroplay in various formats.
+This is a database of the awesome WHDLoad collection by Retroplay in various formats. There is also a CLRMamePro dat file as well.
 
 AmigaGuide Reccommendation: Real or emulated Amiga with fast memory.
 The Amiga guide version needs the WHD-Data drawer in the WHD-Data.zip extracted to the same path as the guides.
