@@ -1,7 +1,7 @@
 clrmamepro (
         name "Commodore - Amiga - WHDLoad"
         description "Commodore - Amiga - WHDLoad"
-        date "2024-09-23"
+        date "2025-05-11"
         author "MrV2k"
         comment "Retroplay"
 )
@@ -291,13 +291,13 @@ game (
 game (
         name "A.T.R. - All Terrain Racing"
         description "A.T.R. - All Terrain Racing"
-        rom ( name "AllTerrainRacing_v1.5.lha" size 650740 crc 886EF404 sha1 2f52cc2a321b3565690afe9ae4fbe9296195df3f )
+        rom ( name "AllTerrainRacing_v1.6.lha" size 0 crc 27B25DE1 sha1 d1d80b712af3de97378296b9f1806068fceee443 )
 )
 
 game (
         name "A.T.R. - All Terrain Racing (CD32)"
         description "A.T.R. - All Terrain Racing (CD32)"
-        rom ( name "AllTerrainRacing_v1.5_CD32.lha" size 646188 crc 2FF85FFD sha1 0bd9522dcd1cebff1327a86b6f9133760ee0ff7c )
+        rom ( name "AllTerrainRacing_v1.6_CD32.lha" size 0 crc CB8BBBAB sha1 dccc50176b88a67ace473928cc039d4ead619622 )
 )
 
 game (
@@ -315,25 +315,25 @@ game (
 game (
         name "A320 Airbus"
         description "A320 Airbus"
-        rom ( name "A320Airbus_v1.3.lha" size 448065 crc 9FF344FE sha1 187679f646d4356e4cd3771dc3273dafb99694f8 )
+        rom ( name "A320Airbus_v1.3.lha" size 0 crc 9FF344FE sha1 187679f646d4356e4cd3771dc3273dafb99694f8 )
 )
 
 game (
         name "A320 Airbus Edition Europa"
         description "A320 Airbus Edition Europa"
-        rom ( name "A320AirbusEditionEuropa_v1.3.lha" size 441936 crc A0D1E5AB sha1 f1154c9ed9ffaba17c193a6e699556c8239f19d8 )
+        rom ( name "A320AirbusEditionEuropa_v1.3.lha" size 0 crc A0D1E5AB sha1 f1154c9ed9ffaba17c193a6e699556c8239f19d8 )
 )
 
 game (
         name "A320 Airbus Edition USA"
         description "A320 Airbus Edition USA"
-        rom ( name "A320AirbusEditionUSA_v1.1.lha" size 462230 crc D0E9F7D7 sha1 c591f25f57a0a3f7000a809c257326c9a161285a )
+        rom ( name "A320AirbusEditionUSA_v1.1.lha" size 0 crc D0E9F7D7 sha1 c591f25f57a0a3f7000a809c257326c9a161285a )
 )
 
 game (
         name "A320 Airbus Vol. 2"
         description "A320 Airbus Vol. 2"
-        rom ( name "A320AirbusVol2_v1.1_1592.lha" size 503299 crc ABAFFC8A sha1 f9daaacf1e7516e7090b234caa534b1f47a2b086 )
+        rom ( name "A320AirbusVol2_v1.1_1592.lha" size 0 crc ABAFFC8A sha1 f9daaacf1e7516e7090b234caa534b1f47a2b086 )
 )
 
 game (
@@ -397,9 +397,9 @@ game (
 )
 
 game (
-        name "Academy - Tau Ceti 2"
-        description "Academy - Tau Ceti 2"
-        rom ( name "Academy_v1.1.lha" size 130112 crc D4E90399 sha1 8b77ee73dc8f5bb5a4bf6cb5ce6f4c97fd2d2268 )
+        name "Academy - Tau Ceti II"
+        description "Academy - Tau Ceti II"
+        rom ( name "Academy_v1.2_2943.lha" size 112318 crc 64FD2BCA sha1 4def8046afea48f7dbb3fca23020f7de00137474 )
 )
 
 game (
@@ -471,7 +471,7 @@ game (
 game (
         name "Advanced Fruit Machine Simulator"
         description "Advanced Fruit Machine Simulator"
-        rom ( name "AdvancedFruitMachineSimulator_v1.0_0622.lha" size 225037 crc 29FF04AD sha1 81bc7c3699f5d55427316fbe6e18e07f7e6f4825 )
+        rom ( name "AdvancedFruitMachineSimulator_v1.1_0622.lha" size 225312 crc 345B9663 sha1 cc4280f1e431644f282197f2f4950ffdc0664564 )
 )
 
 game (
@@ -573,7 +573,7 @@ game (
 game (
         name "Air Supply"
         description "Air Supply"
-        rom ( name "AirSupply_v1.0.lha" size 598608 crc 75751AA4 sha1 a8e0b5727746beb20b6d55a4c52e95accc9191c2 )
+        rom ( name "AirSupply_v1.0.lha" size 0 crc 75751AA4 sha1 a8e0b5727746beb20b6d55a4c52e95accc9191c2 )
 )
 
 game (
@@ -633,7 +633,7 @@ game (
 game (
         name "Aladdin's Magic Lamp"
         description "Aladdin's Magic Lamp"
-        rom ( name "AladdinsMagicLamp_v1.0.lha" size 307311 crc 2D3632EF sha1 e89b3455f537cd0aca9b7bdc130e36da9573994c )
+        rom ( name "AladdinsMagicLamp_v1.0.lha" size 0 crc 2D3632EF sha1 e89b3455f537cd0aca9b7bdc130e36da9573994c )
 )
 
 game (
@@ -979,9 +979,15 @@ game (
 )
 
 game (
+        name "Ami Robbo 2 (Beta) (Game Demo)"
+        description "Ami Robbo 2 (Beta) (Game Demo)"
+        rom ( name "AmiRobbo2Demo_v1.0.lha" size 0 crc 201C34B9 sha1 d8d616752f146e5d31901dd0a115564da300c938 )
+)
+
+game (
         name "Amidar 500 (Beta)"
         description "Amidar 500 (Beta)"
-        rom ( name "Amidar_v1.0.lha" size 228930 crc B77635DA sha1 9d146d08adf8da28ef007b80eb0242cc5905f045 )
+        rom ( name "Amidar_v1.0.lha" size 0 crc B77635DA sha1 9d146d08adf8da28ef007b80eb0242cc5905f045 )
 )
 
 game (
@@ -1137,13 +1143,13 @@ game (
 game (
         name "Apidya (A.U.D.I.O.S)"
         description "Apidya (A.U.D.I.O.S)"
-        rom ( name "Apidya_v2.05_Audios_2465.lha" size 1628364 crc 5E391298 sha1 0ab897aa36ccdd2bb5ec8c9c8a37858ade79bbd4 )
+        rom ( name "Apidya_v2.06_Audios_2465.lha" size 1630528 crc E829234A sha1 e93feeefc60aa57871715ff14d626c674dd23ea4 )
 )
 
 game (
         name "Apidya (Kaiko)"
         description "Apidya (Kaiko)"
-        rom ( name "Apidya_v2.05_Kaiko_0764.lha" size 1622182 crc BDF5E98B sha1 facc9b3ebc56417571a2710355a02bf4a85ae383 )
+        rom ( name "Apidya_v2.06_Kaiko_0764.lha" size 1630598 crc 5009A768 sha1 9f76cccb16b20939f2ed5aa2293431ea9c6c43a8 )
 )
 
 game (
@@ -1227,7 +1233,7 @@ game (
 game (
         name "Arcade Fruit Machine"
         description "Arcade Fruit Machine"
-        rom ( name "ArcadeFruitMachine_v1.1.lha" size 404523 crc A958BABD sha1 5d03a9f288cefc4a03f8e745bc3d6769809848bb )
+        rom ( name "ArcadeFruitMachine_v1.1.lha" size 0 crc A958BABD sha1 5d03a9f288cefc4a03f8e745bc3d6769809848bb )
 )
 
 game (
@@ -1599,19 +1605,19 @@ game (
 game (
         name "Aventura Espacial, La (Spanish)"
         description "Aventura Espacial, La (Spanish)"
-        rom ( name "AventuraEspacial_v1.0_Es.lha" size 854183 crc F08C0946 sha1 f2f86c0cd1c73ad339830a48ff6da04c560fd45a )
+        rom ( name "AventuraEspacial_v1.0_Es.lha" size 0 crc F08C0946 sha1 f2f86c0cd1c73ad339830a48ff6da04c560fd45a )
 )
 
 game (
         name "Aventura Original, La (Spanish)"
         description "Aventura Original, La (Spanish)"
-        rom ( name "AventuraOriginal_v1.0_Es.lha" size 558646 crc 4C108D7F sha1 7222e0e268f502c9ba035a75aac8fe00fe3d6218 )
+        rom ( name "AventuraOriginal_v1.0_Es.lha" size 0 crc 4C108D7F sha1 7222e0e268f502c9ba035a75aac8fe00fe3d6218 )
 )
 
 game (
         name "Aventures De Moktar, Les (French)"
         description "Aventures De Moktar, Les (French)"
-        rom ( name "AventuresDeMoktar_v2.3_Fr_1636.lha" size 745885 crc 770E3125 sha1 3a8b2070c9b3dcebe45e75b26117cb65677d1501 )
+        rom ( name "AventuresDeMoktar_v2.3_Fr_1636.lha" size 0 crc BCB508EC sha1 694b8781c9d8c0d9de6efba8705b5be6cd15bb55 )
 )
 
 game (
@@ -1696,6 +1702,12 @@ game (
         name "B.A.T. II (German)"
         description "B.A.T. II (German)"
         rom ( name "BAT2_v1.1_De_0434.lha" size 2864245 crc 068726A5 sha1 539dd8b551145281a5870fb051b132e56779938c )
+)
+
+game (
+        name "B.A.T. II (Spanish)"
+        description "B.A.T. II (Spanish)"
+        rom ( name "BAT2_v1.1_Es.lha" size 2864352 crc 329A7BD5 sha1 ef298cd3472c9749ce468dac34d8f3f36bb25c7e )
 )
 
 game (
@@ -2451,7 +2463,7 @@ game (
 game (
         name "Black Dawn II (PD)"
         description "Black Dawn II (PD)"
-        rom ( name "BlackDawn2_v1.0.lha" size 498128 crc A4DCED68 sha1 72fa66b6de198c59411c1ea0e7b2065efb6b92ac )
+        rom ( name "BlackDawn2_v1.1.lha" size 498130 crc 2BC9F286 sha1 10c743553afc51d135fc01f79636cb2ac26ab652 )
 )
 
 game (
@@ -2467,8 +2479,8 @@ game (
 )
 
 game (
-        name "Black Dawn VI - Hellbound"
-        description "Black Dawn VI - Hellbound"
+        name "Black Dawn VI - Hellbound (PD)"
+        description "Black Dawn VI - Hellbound (PD)"
         rom ( name "BlackDawn6_v1.0.lha" size 599002 crc EAB6FA6B sha1 ccb13d755f6c43f65cbdc36adee9133ed87a390c )
 )
 
@@ -2553,7 +2565,7 @@ game (
 game (
         name "Blades of Steel"
         description "Blades of Steel"
-        rom ( name "BladesOfSteel_v1.01.lha" size 274292 crc 9021687F sha1 564c1a8d5a3a9c60c72f359fa6fbb0ce03beff79 )
+        rom ( name "BladesOfSteel_v1.01.lha" size 0 crc 9021687F sha1 564c1a8d5a3a9c60c72f359fa6fbb0ce03beff79 )
 )
 
 game (
@@ -2977,8 +2989,8 @@ game (
 )
 
 game (
-        name "Breakout Revolution (PD) (AGA)"
-        description "Breakout Revolution (PD) (AGA)"
+        name "BreakOut Revolution (PD) (AGA)"
+        description "BreakOut Revolution (PD) (AGA)"
         rom ( name "BreakOutRevolution_v1.0_AGA.lha" size 1813368 crc F39983FB sha1 5f07d177627d985c3d20e2cd62616112ce4625d8 )
 )
 
@@ -3135,13 +3147,13 @@ game (
 game (
         name "Buck Rogers XXVc - Countdown to Doomsday (German)"
         description "Buck Rogers XXVc - Countdown to Doomsday (German)"
-        rom ( name "BuckRogers_v1.2_De_0445.lha" size 1054307 crc 4846728B sha1 af19ef1a2ba2ff1aa37da971aa1490cb90c23612 )
+        rom ( name "BuckRogers_v1.3_De_0445.lha" size 0 crc DA3D1CCD sha1 5a1b83457b7facbb3c1069f00e01c63622d86239 )
 )
 
 game (
         name "Buck Rogers XXVc - Countdown to Doomsday (NTSC)"
         description "Buck Rogers XXVc - Countdown to Doomsday (NTSC)"
-        rom ( name "BuckRogers_v1.2_NTSC_1994.lha" size 1052613 crc 738D635E sha1 05a1bf47c9989a5945eac681d426195017a8a2f3 )
+        rom ( name "BuckRogers_v1.3_NTSC_1994.lha" size 0 crc 3467876D sha1 0f5019f620c23748c3eada8ffa4b1467fe3a1968 )
 )
 
 game (
@@ -3229,6 +3241,18 @@ game (
 )
 
 game (
+        name "Burger Time (68020) (Beta)"
+        description "Burger Time (68020) (Beta)"
+        rom ( name "BurgerTime_v1.0_68020.lha" size 139908 crc FA45EEE2 sha1 b087a2aa22e5fad55a7fb5e374b8fa6d40bc7689 )
+)
+
+game (
+        name "Burger Time (Beta)"
+        description "Burger Time (Beta)"
+        rom ( name "BurgerTime_v1.0.lha" size 135416 crc 61078BF3 sha1 d827353392c07d4a0df787ebb586a9f7fd2ce6fb )
+)
+
+game (
         name "Burning Rubber"
         description "Burning Rubber"
         rom ( name "BurningRubber_v1.5a.lha" size 2706137 crc E2CC642B sha1 6d9cebf3b80478cc7a27971ab61f5816f8ad7546 )
@@ -3297,12 +3321,12 @@ game (
 game (
         name "Cadaver & The Payoff"
         description "Cadaver & The Payoff"
-        rom ( name "Cadaver&ThePayoff_v3.1_0900.lha" size 2170875 crc 7459E383 sha1 353cbbd61913eb6d2a0b4656592b5a58137d14e3 )
+        rom ( name "Cadaver&ThePayoff_v3.2_0900.lha" size 0 crc 12018128 sha1 ea5c928cc1341d4ae67644f0aa0ddf33c6fe4217 )
 )
 
 game (
-        name "Cadaver (Bonus Levels) (Game Demo)"
-        description "Cadaver (Bonus Levels) (Game Demo)"
+        name "Cadaver - The Last Supper (Coverdisk)"
+        description "Cadaver - The Last Supper (Coverdisk)"
         rom ( name "CadaverDemos_v1.2.lha" size 569025 crc F841A92B sha1 882a1f0dbb546d480c34fa6d2c2bd556870dff1a )
 )
 
@@ -3681,7 +3705,7 @@ game (
 game (
         name "Castlevania (Beta) (AGA)"
         description "Castlevania (Beta) (AGA)"
-        rom ( name "Castlevania_v1.2_AGA_June2024.lha" size 1905790 crc F8EBA5D4 sha1 27c7f3e786deb75c8b32a602826545d049ca79c3 )
+        rom ( name "Castlevania_v1.2_AGA_January2025.lha" size 1766701 crc EBC410D9 sha1 aedf1686f847e118cc07ff6a49b9b6833e373974 )
 )
 
 game (
@@ -3723,19 +3747,19 @@ game (
 game (
         name "Cedric And The Lost Sceptre"
         description "Cedric And The Lost Sceptre"
-        rom ( name "Cedric_v2.2.lha" size 2764196 crc FE9D9B81 sha1 a5cbce2c896d61e8fe663ad2814086c13943ff3a )
+        rom ( name "Cedric_v2.3.lha" size 0 crc 1EDE7F08 sha1 88f1e992fe308ef87338147d12fa76e948760738 )
 )
 
 game (
         name "Cedric And The Lost Sceptre (CD32)"
         description "Cedric And The Lost Sceptre (CD32)"
-        rom ( name "Cedric_v2.2_CD32.lha" size 2764073 crc EBF86B1D sha1 a84777c7f4d90c9b1738cf61da2bc02b36f558db )
+        rom ( name "Cedric_v2.3_CD32.lha" size 0 crc F87F5E02 sha1 02122d776099409c79e84e7ee74920c97c2d3b2a )
 )
 
 game (
         name "Celtic Heart (PD)"
         description "Celtic Heart (PD)"
-        rom ( name "CelticHeart_v1.0.lha" size 664155 crc A0C725AC sha1 7c07b5d01946b2984f71929b0993d7eaf5520009 )
+        rom ( name "CelticHeart_v1.0.lha" size 0 crc A0C725AC sha1 7c07b5d01946b2984f71929b0993d7eaf5520009 )
 )
 
 game (
@@ -3765,7 +3789,7 @@ game (
 game (
         name "Centerbase - Science-Fiction Simulation"
         description "Centerbase - Science-Fiction Simulation"
-        rom ( name "Centerbase_v1.1_2785.lha" size 556749 crc D77F2A7B sha1 38c91503ee48940661b46922e9c6b114de75a8be )
+        rom ( name "Centerbase_v1.1_2785.lha" size 0 crc D77F2A7B sha1 38c91503ee48940661b46922e9c6b114de75a8be )
 )
 
 game (
@@ -3790,6 +3814,12 @@ game (
         name "Challenge Foot Senior (French)"
         description "Challenge Foot Senior (French)"
         rom ( name "ChallengeFoot_v1.0_Fr.lha" size 285233 crc D859642C sha1 84acf21ece954d18a5b755459b88f3df64b5393b )
+)
+
+game (
+        name "Challenge Golf"
+        description "Challenge Golf"
+        rom ( name "ChallengeGolf_v1.0_1015.lha" size 285348 crc 0220C9DD sha1 16c2e9b68d8a2ef512a539885316a77474f1bf72 )
 )
 
 game (
@@ -3952,6 +3982,12 @@ game (
         name "Charlie J Cool (AGA)"
         description "Charlie J Cool (AGA)"
         rom ( name "CharlieJCool_v1.2_AGA.lha" size 1439349 crc E3FAFC6F sha1 8933d348057ed7826c6458a307ac406b743d5c39 )
+)
+
+game (
+        name "Charly"
+        description "Charly"
+        rom ( name "Charly_v1.0.lha" size 0 crc 4D7F1468 sha1 ad1087e750ff894fa847109b753cd93eb60902da )
 )
 
 game (
@@ -4119,7 +4155,7 @@ game (
 game (
         name "Chuck Yeager's Advanced Flight Trainer 2"
         description "Chuck Yeager's Advanced Flight Trainer 2"
-        rom ( name "ChuckYeagersAdvancedFlightTrainer2_v1.0_0670.lha" size 553267 crc 83FE8309 sha1 c5fb451522495ae3005c09aced506652cf9926a3 )
+        rom ( name "ChuckYeagersAdvancedFlightTrainer2_v2.0_0670.lha" size 0 crc 6E41A471 sha1 e4e3a7318f79f85b89e19bdc176e93736072a262 )
 )
 
 game (
@@ -4299,7 +4335,7 @@ game (
 game (
         name "Clown-o-Mania"
         description "Clown-o-Mania"
-        rom ( name "ClownOMania_v1.3_2807.lha" size 317021 crc 5B0C3F73 sha1 389ee00849080dca004e2b8480e0d83ee0587b85 )
+        rom ( name "ClownOMania_v2.1_2807.lha" size 0 crc 7F7DA2AC sha1 d5c7f2553e4e9ddb77c89479b6896d800f3ffd5c )
 )
 
 game (
@@ -4449,7 +4485,7 @@ game (
 game (
         name "Commando"
         description "Commando"
-        rom ( name "Commando_v1.3_0002.lha" size 255749 crc BB2758EE sha1 982542090e5fca5e3f60a01e4ca12bf6a9af7560 )
+        rom ( name "Commando_v1.4_0002.lha" size 0 crc BE8D2E87 sha1 8bbdc36b1f4c30d4f027d7284c68fc73778174b4 )
 )
 
 game (
@@ -4963,9 +4999,9 @@ game (
 )
 
 game (
-        name "Cyber Empires"
-        description "Cyber Empires"
-        rom ( name "CyberEmpires_v1.1.lha" size 1288706 crc FA75C890 sha1 f3ea049a14bde0befe0743ff080b09f7077572ff )
+        name "Cyber Empires (NTSC)"
+        description "Cyber Empires (NTSC)"
+        rom ( name "CyberEmpires_v1.1_NTSC.lha" size 0 crc 1D319304 sha1 0f3aec6f1efd8ccebaedbe63df471b3b26c834b6 )
 )
 
 game (
@@ -5017,6 +5053,12 @@ game (
 )
 
 game (
+        name "Cybernoid - The Fighting Machine (Old Tile Set)"
+        description "Cybernoid - The Fighting Machine (Old Tile Set)"
+        rom ( name "Cybernoid_v1.3_OldTileSet.lha" size 298382 crc 8944DD35 sha1 1a6c331d496dfee5645e3c474d1f98605e56e709 )
+)
+
+game (
         name "Cybernoid 2 - The Revenge"
         description "Cybernoid 2 - The Revenge"
         rom ( name "Cybernoid2_v1.3_0003.lha" size 361715 crc 23A1FF78 sha1 310f139b339273f133df4b7927b79355e24c5b3c )
@@ -5026,6 +5068,18 @@ game (
         name "Cyberpunks"
         description "Cyberpunks"
         rom ( name "Cyberpunks_v1.3_0365.lha" size 593456 crc A6D9C97E sha1 dd8753e7bf526f9b2ab99ab7435c87ff9fb2b929 )
+)
+
+game (
+        name "Cybersphere"
+        description "Cybersphere"
+        rom ( name "Cybersphere_v1.0.lha" size 0 crc 2881193B sha1 8c656697396007396742caa1ff923a8863a781c8 )
+)
+
+game (
+        name "Cybersphere Plus"
+        description "Cybersphere Plus"
+        rom ( name "CyberspherePlus_v1.0.lha" size 0 crc 5A42E1E5 sha1 30f2a42cfc0d98832d71930a246459b0c9129d0f )
 )
 
 game (
@@ -5551,6 +5605,12 @@ game (
 )
 
 game (
+        name "Denaris (NTSC)"
+        description "Denaris (NTSC)"
+        rom ( name "Denaris_v2.0_NTSC.lha" size 0 crc E6ABAC84 sha1 3691e4262014a4bf3147ba19ddaa7ca2ef45be6c )
+)
+
+game (
         name "Denaris (One Disk)"
         description "Denaris (One Disk)"
         rom ( name "Denaris_v2.0_1Disk_2166.lha" size 721548 crc 2B18EA06 sha1 e2fb8bb1a95016d521c59997c9c78c9764a56195 )
@@ -5601,7 +5661,7 @@ game (
 game (
         name "Desert Strike - Return to the Gulf"
         description "Desert Strike - Return to the Gulf"
-        rom ( name "DesertStrike_v4.1_0112.lha" size 2502678 crc 67655AB8 sha1 885e88d2c7a222ce52749805974a968866552c29 )
+        rom ( name "DesertStrike_v4.2_0112.lha" size 0 crc E99F4D52 sha1 7047bef8e61bb983ac1fd2156531b24fb2282d68 )
 )
 
 game (
@@ -5733,7 +5793,7 @@ game (
 game (
         name "Diosa de Cozumel, La (Spanish)"
         description "Diosa de Cozumel, La (Spanish)"
-        rom ( name "DiosaDeCozumel_v1.0_Es.lha" size 752286 crc E1BA3F56 sha1 efe745d01bae815de36c35d6552d361d495b2a09 )
+        rom ( name "DiosaDeCozumel_v1.0_Es.lha" size 0 crc E1BA3F56 sha1 efe745d01bae815de36c35d6552d361d495b2a09 )
 )
 
 game (
@@ -5863,6 +5923,12 @@ game (
 )
 
 game (
+        name "Donde Esta Carmen Sandiego Buscala Por Todo El Mundo (Spanish)"
+        description "Donde Esta Carmen Sandiego Buscala Por Todo El Mundo (Spanish)"
+        rom ( name "DondeEstaCarmenSandiegoBuscalaPorTodoElMundo_v0.1_Es.lha" size 0 crc 7E1BBD74 sha1 6b2d21ef9addcf5087d0697d37d40923ca1887c5 )
+)
+
+game (
         name "Donk The Samurai Duck!"
         description "Donk The Samurai Duck!"
         rom ( name "DonkTheSamuraiDuck_v1.2_0647.lha" size 2376092 crc 1856362D sha1 69b87b01e8b0ad27b65b62e618ebf901c9265ab6 )
@@ -5883,7 +5949,7 @@ game (
 game (
         name "Donkey Kong 500 (Beta)"
         description "Donkey Kong 500 (Beta)"
-        rom ( name "DonkeyKong_v1.0.lha" size 185917 crc C873BB2A sha1 a7f2a513dd593871d3bd2a24519e399ca9d6b3fe )
+        rom ( name "DonkeyKong_v1.0.lha" size 0 crc C873BB2A sha1 a7f2a513dd593871d3bd2a24519e399ca9d6b3fe )
 )
 
 game (
@@ -5895,7 +5961,7 @@ game (
 game (
         name "Doody (Coverdisk)"
         description "Doody (Coverdisk)"
-        rom ( name "Doody_v1.1.lha" size 106293 crc A2AC83C5 sha1 da7009ba008cf4a82feb566a222c6eeeeed8f552 )
+        rom ( name "Doody_v1.1.lha" size 0 crc A2AC83C5 sha1 da7009ba008cf4a82feb566a222c6eeeeed8f552 )
 )
 
 game (
@@ -6267,7 +6333,7 @@ game (
 game (
         name "Drip (PD)"
         description "Drip (PD)"
-        rom ( name "Drip_v1.0.lha" size 246038 crc 0632A67F sha1 1d508bd05c3a43c6abea8ed8b6551d43f3b0c4ab )
+        rom ( name "Drip_v1.1.lha" size 0 crc 2BB00EAB sha1 c407bdd4ce6bb4921ff68e2b9f25d25dce199936 )
 )
 
 game (
@@ -6361,6 +6427,12 @@ game (
 )
 
 game (
+        name "Dungeonette (Game Demo) (AGA)"
+        description "Dungeonette (Game Demo) (AGA)"
+        rom ( name "DungeonetteDemo_v1.1_AGA.lha" size 0 crc 4C9235B3 sha1 b1a3fbd90820768cb1a3d8dd202cda2c24251116 )
+)
+
+game (
         name "Dungeons Of Avalon (Coverdisk)"
         description "Dungeons Of Avalon (Coverdisk)"
         rom ( name "DungeonsOfAvalon_v1.1_1956.lha" size 504831 crc 10CC6937 sha1 b65f6dd1d35e4182ac4f429466ab48dc6c6c8dd8 )
@@ -6387,7 +6459,7 @@ game (
 game (
         name "Dyna Blaster"
         description "Dyna Blaster"
-        rom ( name "DynaBlaster_v1.8_0664.lha" size 747124 crc 277C696F sha1 5f865a0a344d56973d971bc7a914efbaa293fcaa )
+        rom ( name "DynaBlaster_v1.8_0664.lha" size 0 crc 277C696F sha1 5f865a0a344d56973d971bc7a914efbaa293fcaa )
 )
 
 game (
@@ -6441,7 +6513,7 @@ game (
 game (
         name "Earl Weaver Baseball"
         description "Earl Weaver Baseball"
-        rom ( name "EarlWeaverBaseball_v1.0_0323.lha" size 437807 crc F5572C36 sha1 d10fec78d4358dc3a4152209ed094f0ab4c63426 )
+        rom ( name "EarlWeaverBaseball_v1.0_0323.lha" size 0 crc 4B20D48E sha1 e007debefc087263b5564115035a8b77c97c175a )
 )
 
 game (
@@ -6511,21 +6583,45 @@ game (
 )
 
 game (
+        name "Elevator Action 500 (Beta) (AGA)"
+        description "Elevator Action 500 (Beta) (AGA)"
+        rom ( name "ElevatorAction_v1.0_AGA.lha" size 0 crc 34A6BEC9 sha1 9a2de6d66e7e0c6423df5b28b827ec896adb465f )
+)
+
+game (
+        name "Elevator Action 500 (ECS) (Beta)"
+        description "Elevator Action 500 (ECS) (Beta)"
+        rom ( name "ElevatorAction_v1.0_ECS.lha" size 0 crc 786B22DD sha1 d54c8da0f11ba019cd7fb4d409b90af01b452ae3 )
+)
+
+game (
+        name "Elevator Action 500 (OCS) (Beta)"
+        description "Elevator Action 500 (OCS) (Beta)"
+        rom ( name "ElevatorAction_v1.0_OCS.lha" size 0 crc 245442C7 sha1 446b703135ee9cb2f096ceda96bb07d97b7e767c )
+)
+
+game (
         name "Elf (MicroValue)"
         description "Elf (MicroValue)"
         rom ( name "Elf_v1.0_MicroValue_0863.lha" size 166932 crc 703AC4EF sha1 7db8f06111d4534891d980ec547c66b778a3ec02 )
 )
 
 game (
-        name "Elf (Ocean)"
-        description "Elf (Ocean)"
-        rom ( name "Elf_v1.2_Ocean_0473.lha" size 1581878 crc D2094622 sha1 bc860b83543f79021dc6945915b403b3aff3e7ed )
+        name "Elf (Ocean) (EnFrDe)"
+        description "Elf (Ocean) (EnFrDe)"
+        rom ( name "Elf_v1.3_Ocean_EnFrDe_0473.lha" size 1582358 crc BD8E1F31 sha1 a6b6c7f65b71076ba33f0dce6bc9d816b5325b7d )
 )
 
 game (
-        name "Elf (Ocean) (NTSC)"
-        description "Elf (Ocean) (NTSC)"
-        rom ( name "Elf_v1.2_Ocean_NTSC.lha" size 1555456 crc 2EBB5E76 sha1 9e2ac742663eef28ce5f72273aafb9311367e5c7 )
+        name "Elf (Ocean) (EnFrDe) (NTSC)"
+        description "Elf (Ocean) (EnFrDe) (NTSC)"
+        rom ( name "Elf_v1.3_Ocean_EnFrDe_NTSC.lha" size 1555945 crc 42AA9C2C sha1 f1119a95fad9d194af487bf8bd50aa31f438d162 )
+)
+
+game (
+        name "Elf (Ocean) (EnFrEs)"
+        description "Elf (Ocean) (EnFrEs)"
+        rom ( name "Elf_v1.3_Ocean_EnFrEs.lha" size 1588060 crc AF5D4AA4 sha1 5a4c5c8dc246b4e27596427e787033d3691aa660 )
 )
 
 game (
@@ -6561,25 +6657,31 @@ game (
 game (
         name "Elvira - Mistress of the Dark"
         description "Elvira - Mistress of the Dark"
-        rom ( name "Elvira_v1.3_0267.lha" size 3203444 crc 2DA290BC sha1 bed472f2dddb646749b6e5c177d44c70abafffdc )
+        rom ( name "Elvira_v1.4_0267.lha" size 3203854 crc 3BF8E502 sha1 1fd48dfa73df07edd79f284a17aaf408289dd0a6 )
+)
+
+game (
+        name "Elvira - Mistress of the Dark (Fix) (Beta) (German)"
+        description "Elvira - Mistress of the Dark (Fix) (Beta) (German)"
+        rom ( name "Elvira_v1.3_De_German_fix_by_Torti-the-Smurf.lha" size 3222205 crc 0CC644A6 sha1 80f39a5bcd2b546e3e00156163245564d57f53c0 )
 )
 
 game (
         name "Elvira - Mistress of the Dark (French)"
         description "Elvira - Mistress of the Dark (French)"
-        rom ( name "Elvira_v1.3_Fr_1751.lha" size 3205174 crc 0773709D sha1 d3ce9146ef90dd3e252ec2547dff0fe604761f66 )
+        rom ( name "Elvira_v1.4_Fr_1751.lha" size 3205584 crc E1A98A80 sha1 5fe96a127eca396c1010d6fb505d30931e82ce6e )
 )
 
 game (
         name "Elvira - Mistress of the Dark (German)"
         description "Elvira - Mistress of the Dark (German)"
-        rom ( name "Elvira_v1.3_De_0474.lha" size 3221211 crc ACB751A0 sha1 f78f6cbf7b0050bd4fae49f77ad828f293b5a28a )
+        rom ( name "Elvira_v1.4_De_0474.lha" size 3221621 crc 1BD989B0 sha1 e7cbecd96d359543f3e6344df530f5b735b7bb29 )
 )
 
 game (
         name "Elvira - Mistress of the Dark (NTSC)"
         description "Elvira - Mistress of the Dark (NTSC)"
-        rom ( name "Elvira_v1.3_NTSC.lha" size 3192287 crc 11FCFB8B sha1 53bb3c27cfa9dfbe36261dc7690e1111118e3290 )
+        rom ( name "Elvira_v1.4_NTSC.lha" size 3192697 crc 65657352 sha1 ce462c6f9acef4bbedabeefbfdf58628c08f0727 )
 )
 
 game (
@@ -6616,6 +6718,12 @@ game (
         name "Elvira 2 - The Jaws of Cerberus (Spanish)"
         description "Elvira 2 - The Jaws of Cerberus (Spanish)"
         rom ( name "Elvira2_v1.5_Es.lha" size 4721961 crc 6D619477 sha1 77569201a588a0fb3409cfc6f30a763bdf860ee7 )
+)
+
+game (
+        name "Elysium (Beta) (German)"
+        description "Elysium (Beta) (German)"
+        rom ( name "Elysium_v1.0_De.lha" size 0 crc 3589FEB8 sha1 ed9416f3c526b3db8cb9b7a2c6a517e95ef0a926 )
 )
 
 game (
@@ -6711,7 +6819,7 @@ game (
 game (
         name "Enchanted Land"
         description "Enchanted Land"
-        rom ( name "EnchantedLand_v1.3_3063.lha" size 782295 crc 4299566F sha1 ffed2e06e9d7e962f30ca21aa683f2b8a31cf242 )
+        rom ( name "EnchantedLand_v1.4_3063.lha" size 0 crc 5A926EE9 sha1 de831aa0eb560978ecc9c85408ee47fadc5bb15e )
 )
 
 game (
@@ -6897,7 +7005,7 @@ game (
 game (
         name "Evils Doom (Game Demo) (AGA)"
         description "Evils Doom (Game Demo) (AGA)"
-        rom ( name "EvilsDoomDemo_v1.0_AGA.lha" size 2710976 crc 8B888ADF sha1 fc678960c31ad18e53da19dff2a1a75efe87c71a )
+        rom ( name "EvilsDoomDemo_v1.0_AGA.lha" size 0 crc 8B888ADF sha1 fc678960c31ad18e53da19dff2a1a75efe87c71a )
 )
 
 game (
@@ -6937,9 +7045,15 @@ game (
 )
 
 game (
+        name "Exodus 3010 - The First Chapter"
+        description "Exodus 3010 - The First Chapter"
+        rom ( name "Exodus3010_v1.1.lha" size 750736 crc 85A6A5FB sha1 eae907ee2b4609ce2d3039df0f8c8e6322770b2e )
+)
+
+game (
         name "Exodus 3010 - The First Chapter (German)"
         description "Exodus 3010 - The First Chapter (German)"
-        rom ( name "Exodus3010_v1.0_De_1605.lha" size 753039 crc 737A895A sha1 697c25dfcf01c650f59b200755f8323fd4b435b6 )
+        rom ( name "Exodus3010_v1.1_De_1605.lha" size 775608 crc 0835F891 sha1 79efb348dd5a525a191735a82c236e69d00d69f5 )
 )
 
 game (
@@ -8215,6 +8329,12 @@ game (
 )
 
 game (
+        name "Future Sport"
+        description "Future Sport"
+        rom ( name "FutureSport_v1.0.lha" size 298470 crc 545EE4F7 sha1 ba6baf471398671865a6b1a84ddb4ac5ece3d157 )
+)
+
+game (
         name "Future Tank"
         description "Future Tank"
         rom ( name "FutureTank_v1.0.lha" size 363832 crc E3ACF40F sha1 345fcb2df29b9cdadbcd3b3b8ba147b5b23715b8 )
@@ -8325,7 +8445,7 @@ game (
 game (
         name "Galaga 500 (Beta)"
         description "Galaga 500 (Beta)"
-        rom ( name "Galaga_v1.0.lha" size 201478 crc 27533215 sha1 8f65a615efe97781401446a2f648ad10ff362bb0 )
+        rom ( name "Galaga_v1.0.lha" size 0 crc 27533215 sha1 8f65a615efe97781401446a2f648ad10ff362bb0 )
 )
 
 game (
@@ -8443,9 +8563,9 @@ game (
 )
 
 game (
-        name "Gear Works"
-        description "Gear Works"
-        rom ( name "GearWorks_v1.0.lha" size 495516 crc 777AC637 sha1 6ee196629b934e5b6d0a9103f402d05dd3090bd1 )
+        name "Gear Works (NTSC)"
+        description "Gear Works (NTSC)"
+        rom ( name "GearWorks_v1.0_NTSC_1028.lha" size 0 crc 78E52E00 sha1 e0afc6403047a69d1a0f82c96c6302ac99e7a79b )
 )
 
 game (
@@ -8535,13 +8655,13 @@ game (
 game (
         name "Ghost Battle"
         description "Ghost Battle"
-        rom ( name "GhostBattle_v1.2.lha" size 968756 crc 0ACB21A5 sha1 2300ad290111e9d59c6b6476530e58b26ba0f645 )
+        rom ( name "GhostBattle_v1.5.lha" size 977901 crc B25B1173 sha1 248f61089b81813fa56faec10a14f6f42c88bafe )
 )
 
 game (
         name "Ghost Battle (Beta)"
         description "Ghost Battle (Beta)"
-        rom ( name "GhostBattle_v1.3.lha" size 968772 crc 738A43FC sha1 e868a10bfc541ae797744c4b66db1a64a1af8113 )
+        rom ( name "GhostBattle_v1.3.lha" size 0 crc 738A43FC sha1 e868a10bfc541ae797744c4b66db1a64a1af8113 )
 )
 
 game (
@@ -8679,7 +8799,7 @@ game (
 game (
         name "Glubble (PD)"
         description "Glubble (PD)"
-        rom ( name "Glubble_v1.0.lha" size 564348 crc E7AAA37C sha1 34baaf59d975f304912a773a7f02661ea649e681 )
+        rom ( name "Glubble_v1.0.lha" size 0 crc E7AAA37C sha1 34baaf59d975f304912a773a7f02661ea649e681 )
 )
 
 game (
@@ -9025,6 +9145,12 @@ game (
 )
 
 game (
+        name "Grimblood"
+        description "Grimblood"
+        rom ( name "Grimblood_v1.0_2088.lha" size 338534 crc D3ECB97F sha1 3cca2d903a8e9dd87d9b60ee61056431d94e011d )
+)
+
+game (
         name "Guardian (AGA)"
         description "Guardian (AGA)"
         rom ( name "Guardian_v2.0_AGA_0835.lha" size 1224126 crc 2555DCC5 sha1 4e6c079d724f62bbf8a0a50e3242f1f491141884 )
@@ -9165,7 +9291,7 @@ game (
 game (
         name "Hammer Boy"
         description "Hammer Boy"
-        rom ( name "HammerBoy_v1.2_1349.lha" size 588985 crc 86E2502C sha1 29f1a46b8dc5fe27cc6b103b47969fb2aea195c2 )
+        rom ( name "HammerBoy_v1.3_1349.lha" size 0 crc B07D3B98 sha1 45bff5ca1b4bd6088dc8c7d3a23e6be5f6fe3f3e )
 )
 
 game (
@@ -9214,6 +9340,12 @@ game (
         name "HardBall!"
         description "HardBall!"
         rom ( name "HardBall_v1.0_0490.lha" size 237783 crc AFCE1CBA sha1 121b377ba41d26012d8f9e28d43323a84d263e54 )
+)
+
+game (
+        name "Hare Raising Havoc"
+        description "Hare Raising Havoc"
+        rom ( name "HareRaisingHavoc_v1.0.lha" size 3366194 crc 091E9128 sha1 88ded451cf2cafc398badc0fcc59a430c7dadc3c )
 )
 
 game (
@@ -9285,7 +9417,7 @@ game (
 game (
         name "Head Over Heels"
         description "Head Over Heels"
-        rom ( name "HeadOverHeels_v1.0_1674.lha" size 152352 crc 95CEC94A sha1 d62467d82ff22ca6ddb7d1af0b62787bb618cd53 )
+        rom ( name "HeadOverHeels_v1.1_1674.lha" size 0 crc 4712E475 sha1 32aec5d029a56f1bf5d08d7ca18554c7c909f43d )
 )
 
 game (
@@ -9327,25 +9459,25 @@ game (
 game (
         name "Heimdall"
         description "Heimdall"
-        rom ( name "Heimdall_v2.3_0234.lha" size 4229546 crc 5F6F77FA sha1 5fc33e454e725cdf30b2f119224e5d7717975b43 )
+        rom ( name "Heimdall_v2.3_0234.lha" size 0 crc 5F6F77FA sha1 5fc33e454e725cdf30b2f119224e5d7717975b43 )
 )
 
 game (
         name "Heimdall (French)"
         description "Heimdall (French)"
-        rom ( name "Heimdall_v2.3_Fr.lha" size 4227411 crc 0EB27AF2 sha1 39d2fe4757c4dffad0966ec96709729f03b4dea3 )
+        rom ( name "Heimdall_v2.3_Fr.lha" size 0 crc 0EB27AF2 sha1 39d2fe4757c4dffad0966ec96709729f03b4dea3 )
 )
 
 game (
         name "Heimdall (German)"
         description "Heimdall (German)"
-        rom ( name "Heimdall_v2.3_De.lha" size 4227360 crc D0D59514 sha1 09082c34b4d0b9b850c68917acf646050b5230bf )
+        rom ( name "Heimdall_v2.3_De.lha" size 0 crc D0D59514 sha1 09082c34b4d0b9b850c68917acf646050b5230bf )
 )
 
 game (
         name "Heimdall (Spanish)"
         description "Heimdall (Spanish)"
-        rom ( name "Heimdall_v2.3_Es.lha" size 4184261 crc A246E242 sha1 4a30d64bf7bbb80c1c432ee73464597eedf71d34 )
+        rom ( name "Heimdall_v2.3_Es.lha" size 0 crc A246E242 sha1 4a30d64bf7bbb80c1c432ee73464597eedf71d34 )
 )
 
 game (
@@ -9459,7 +9591,7 @@ game (
 game (
         name "High Steel"
         description "High Steel"
-        rom ( name "HighSteel_v1.0_1397.lha" size 214291 crc 7A3F6C98 sha1 3e2680db649d11683d8fc47b44d34f29eb925e1a )
+        rom ( name "HighSteel_v1.1_1397.lha" size 216567 crc 1337D50C sha1 504095b998fdef126592e427fa269748166c041a )
 )
 
 game (
@@ -9765,19 +9897,25 @@ game (
 game (
         name "Humans 2, The - The Jurassic Levels"
         description "Humans 2, The - The Jurassic Levels"
-        rom ( name "Humans2_v1.6-B_1036.lha" size 2558557 crc 0F5759F3 sha1 5621f9fd10557a478488a740f4ebbe150a059641 )
+        rom ( name "Humans2_v1.6-B_1036.lha" size 0 crc 0F5759F3 sha1 5621f9fd10557a478488a740f4ebbe150a059641 )
 )
 
 game (
         name "Humans 2, The - The Jurassic Levels (German)"
         description "Humans 2, The - The Jurassic Levels (German)"
-        rom ( name "Humans2_v1.6-B_De_0510.lha" size 2558194 crc F34BCC88 sha1 8d3bb72cad3f4e9295141b5c5cfb9cdb506e64cf )
+        rom ( name "Humans2_v1.6-B_De_0510.lha" size 0 crc F34BCC88 sha1 8d3bb72cad3f4e9295141b5c5cfb9cdb506e64cf )
 )
 
 game (
         name "Humans 3 Evolution, The - Lost in time... (AGA)"
         description "Humans 3 Evolution, The - Lost in time... (AGA)"
-        rom ( name "Humans3_v1.1_AGA_2382.lha" size 2079746 crc 908A2F8B sha1 79c115499adcdf30b4e8fb4d69e000b41d9f7bfd )
+        rom ( name "Humans3_v1.2_AGA_2382.lha" size 0 crc 24CE0BD8 sha1 3d55e95b1fa66e949c236f328afa98a2d20e8e1a )
+)
+
+game (
+        name "Humans 3 Evolution, The - Lost in time... (CD32)"
+        description "Humans 3 Evolution, The - Lost in time... (CD32)"
+        rom ( name "Humans3_v1.2_CD32.lha" size 0 crc 004BF608 sha1 58a3063d5b08e9f6337de450c78c5f7b8edcd758 )
 )
 
 game (
@@ -9915,7 +10053,7 @@ game (
 game (
         name "Immortal, The"
         description "Immortal, The"
-        rom ( name "Immortal_v3.1_0340.lha" size 815274 crc 9D9EA8FC sha1 5982537c7708ce03d916f55026e26cf9c26de6e8 )
+        rom ( name "Immortal_v3.2_0340.lha" size 0 crc 738BC88F sha1 426c564ec2fb9c8026807f4f46d19fbaa92e0bdd )
 )
 
 game (
@@ -9987,7 +10125,7 @@ game (
 game (
         name "Indian Mission (German)"
         description "Indian Mission (German)"
-        rom ( name "IndianMission_v1.0_De.lha" size 403226 crc C4C87DDB sha1 0db328e6f3d8feb2fffe77ef568f066a740a9e6b )
+        rom ( name "IndianMission_v1.0_De.lha" size 0 crc C4C87DDB sha1 0db328e6f3d8feb2fffe77ef568f066a740a9e6b )
 )
 
 game (
@@ -10204,6 +10342,12 @@ game (
         name "International Ice Hockey"
         description "International Ice Hockey"
         rom ( name "InternationalIceHockey_v1.0_0665.lha" size 238944 crc BEA7CBA8 sha1 3dacc9a5f2eb9bfeb01e81210d930c3c2f835c0c )
+)
+
+game (
+        name "International Karate (ST Port) (Beta)"
+        description "International Karate (ST Port) (Beta)"
+        rom ( name "InternationalKarate_v1.0_AtariST.lha" size 295744 crc 68F01ED7 sha1 093441a58d65eee0e7a5a94e53c279177eb99648 )
 )
 
 game (
@@ -10635,7 +10779,7 @@ game (
 game (
         name "Jim Power In 'Mutant Planet'"
         description "Jim Power In 'Mutant Planet'"
-        rom ( name "JimPower_v3.2_0068.lha" size 1676382 crc 8DEC6FA8 sha1 a3e5d63d1e8f086390d01c653b0edd3e14c5b215 )
+        rom ( name "JimPower_v3.3_0068.lha" size 0 crc C21DC29C sha1 fa3819be4572a4b7fa24752454e00691ed8da0f6 )
 )
 
 game (
@@ -10744,6 +10888,12 @@ game (
         name "Journey To The Center Of The Earth"
         description "Journey To The Center Of The Earth"
         rom ( name "JourneyToTheCenterOfTheEarth_v1.0_1901.lha" size 855349 crc 6EACCB28 sha1 ab8a3d24aafd1f7ea2c05e7934fd54f8a02fec40 )
+)
+
+game (
+        name "Joust (ST Port) (Beta)"
+        description "Joust (ST Port) (Beta)"
+        rom ( name "Joust_v1.0_AtariST.lha" size 39802 crc 23C16F02 sha1 f1806f935e77be50c1adb98f56d4a7177726cd6d )
 )
 
 game (
@@ -10900,6 +11050,12 @@ game (
         name "Karate King & City Defence"
         description "Karate King & City Defence"
         rom ( name "KarateKing&CityDefence_v1.1.lha" size 481343 crc ED71B0D6 sha1 c06cad9dc1da3951023e26690ee0079bb7247fb1 )
+)
+
+game (
+        name "Karateka (ST Port) (Beta)"
+        description "Karateka (ST Port) (Beta)"
+        rom ( name "Karateka_v1.0_AtariST.lha" size 171253 crc A8EDB453 sha1 16f7e00397d7cf60fe231eb5e138b536db48fa75 )
 )
 
 game (
@@ -11211,7 +11367,7 @@ game (
 game (
         name "King And Balloon (Beta)"
         description "King And Balloon (Beta)"
-        rom ( name "KingAndBalloon_v0.94.lha" size 98778 crc 1D22B0CA sha1 0aa001b47b08e7cf590272447305af6dacfa4765 )
+        rom ( name "KingAndBalloon_v0.94.lha" size 0 crc 1D22B0CA sha1 0aa001b47b08e7cf590272447305af6dacfa4765 )
 )
 
 game (
@@ -11248,6 +11404,12 @@ game (
         name "King's Bounty"
         description "King's Bounty"
         rom ( name "KingsBounty_v1.01.lha" size 595459 crc 6B84E4E7 sha1 62e942170ae3a6d82f9b5ffc926c549718a00ea1 )
+)
+
+game (
+        name "King's Bounty (Faster Version) (Beta)"
+        description "King's Bounty (Faster Version) (Beta)"
+        rom ( name "KingsBounty_v1.0_FasterVersion.lha" size 0 crc E90EB13A sha1 529d6d06a06f8646f28649f384ad9f3341e78002 )
 )
 
 game (
@@ -11473,6 +11635,12 @@ game (
 )
 
 game (
+        name "La Poursuite De Carmen Sandiego Dans Le Monde (French)"
+        description "La Poursuite De Carmen Sandiego Dans Le Monde (French)"
+        rom ( name "LaPoursuiteDeCarmenSandiegoDansLeMonde_v0.1_Fr.lha" size 0 crc B00758FD sha1 ede769fa827f21b044a9d50521aa55836124b2b5 )
+)
+
+game (
         name "Labyrinth - Det Nye COMputer (Danish)"
         description "Labyrinth - Det Nye COMputer (Danish)"
         rom ( name "Labyrinth_v1.0.1_DetNyeCOMputer_Dk.lha" size 244111 crc 0B4ABECD sha1 989b874d4bebfef1330c4830346f9fa65d2413b9 )
@@ -11691,7 +11859,7 @@ game (
 game (
         name "Leatherneck"
         description "Leatherneck"
-        rom ( name "Leatherneck_v1.0.lha" size 171615 crc A42555C4 sha1 ce3476fe29fab41040496ef8ce572b2c8aa46e22 )
+        rom ( name "Leatherneck_v1.0.lha" size 0 crc A42555C4 sha1 ce3476fe29fab41040496ef8ce572b2c8aa46e22 )
 )
 
 game (
@@ -12015,7 +12183,7 @@ game (
 game (
         name "Lethal Weapon"
         description "Lethal Weapon"
-        rom ( name "LethalWeapon_v2.0_0814.lha" size 876244 crc 82C88DFC sha1 dd337fb803244726c227e7d17c320c128e24a51e )
+        rom ( name "LethalWeapon_v2.1_0814.lha" size 0 crc 5524CA7C sha1 7a44c841321dd3b17412082828fcaa15a3807006 )
 )
 
 game (
@@ -12141,13 +12309,13 @@ game (
 game (
         name "Liquid Kids (Files)"
         description "Liquid Kids (Files)"
-        rom ( name "LiquidKids_v1.3_Files.lha" size 826629 crc D53C12B0 sha1 a07f152d1ea1e43bed48a1f9af7f36cc6b6bfe8e )
+        rom ( name "LiquidKids_v1.3_Files.lha" size 0 crc FDFDEF61 sha1 e676afdf0821adf3976325232212136a56749d0f )
 )
 
 game (
         name "Liquid Kids (Image)"
         description "Liquid Kids (Image)"
-        rom ( name "LiquidKids_v1.3_Image.lha" size 819382 crc 3BA88D8F sha1 d912a45cf892cb85e9cc3cc78137d937de61fdd1 )
+        rom ( name "LiquidKids_v1.3_Image.lha" size 0 crc 36F02B7A sha1 bc295037f844c480ee1c9f42208769fa5e072fb2 )
 )
 
 game (
@@ -12165,13 +12333,13 @@ game (
 game (
         name "Little Princess"
         description "Little Princess"
-        rom ( name "LittlePrincess_v1.0.lha" size 276719 crc 6A9AA24E sha1 4fe13aaf8e87f4c69ac46ccbd0402bb00c6181f2 )
+        rom ( name "LittlePrincess_v1.0.lha" size 0 crc 6A9AA24E sha1 4fe13aaf8e87f4c69ac46ccbd0402bb00c6181f2 )
 )
 
 game (
         name "Little Princess 2"
         description "Little Princess 2"
-        rom ( name "LittlePrincess2_v1.1.lha" size 527857 crc 5C65086D sha1 a1e2c96e9ee77bdcc2fc156fa97619c5143afc82 )
+        rom ( name "LittlePrincess2_v1.1.lha" size 0 crc 5C65086D sha1 a1e2c96e9ee77bdcc2fc156fa97619c5143afc82 )
 )
 
 game (
@@ -12687,13 +12855,13 @@ game (
 game (
         name "Magic Serpent"
         description "Magic Serpent"
-        rom ( name "MagicSerpent_v1.0.lha" size 348330 crc 947F8570 sha1 7e07f95d24793af6323165d0eb91464103bc3f3f )
+        rom ( name "MagicSerpent_v1.0.lha" size 0 crc 947F8570 sha1 7e07f95d24793af6323165d0eb91464103bc3f3f )
 )
 
 game (
         name "Magic Serpent (CDTV)"
         description "Magic Serpent (CDTV)"
-        rom ( name "MagicSerpent_v1.0_CDTV.lha" size 336314 crc 136517F7 sha1 7b3413f583c7d8a4cc457f92e57691669dee5c3e )
+        rom ( name "MagicSerpent_v1.0_CDTV.lha" size 0 crc 136517F7 sha1 7b3413f583c7d8a4cc457f92e57691669dee5c3e )
 )
 
 game (
@@ -13119,7 +13287,7 @@ game (
 game (
         name "Mega-Typhoon"
         description "Mega-Typhoon"
-        rom ( name "MegaTyphoon_v1.3.lha" size 586904 crc 293A37C2 sha1 dcf48b8e8762ef0e5a2bfff3bdee218d0c0db874 )
+        rom ( name "MegaTyphoon_v1.4.lha" size 0 crc 6515B526 sha1 f449b82a4707679a600d8e5fe0c58d297d81a2ff )
 )
 
 game (
@@ -13443,19 +13611,25 @@ game (
 game (
         name "Mikro Mortal Tennis"
         description "Mikro Mortal Tennis"
-        rom ( name "MikroMortalTennis_v1.1.lha" size 2008210 crc 89FBFA0D sha1 5bb506191d83add7cb7be4536ff8d9d11c3426d4 )
+        rom ( name "MikroMortalTennis_v1.1.lha" size 0 crc 89FBFA0D sha1 5bb506191d83add7cb7be4536ff8d9d11c3426d4 )
 )
 
 game (
         name "Millennium - Return To Earth (NTSC)"
         description "Millennium - Return To Earth (NTSC)"
-        rom ( name "Millenium_v1.4_NTSC_2027.lha" size 465187 crc 7E1C5DC2 sha1 4a796b10282897600ae766dba6bf62f4a15c07a5 )
+        rom ( name "Millenium_v1.5_NTSC_2027.lha" size 464507 crc DA381E58 sha1 10d3b09c51c7635cf119b8c64b6369580ef71720 )
+)
+
+game (
+        name "Millennium - Zuruck Zur Erde (German)"
+        description "Millennium - Zuruck Zur Erde (German)"
+        rom ( name "Millenium_v1.5_De.lha" size 450929 crc 68ADCD52 sha1 f8e024dab14e313bec7e762fd7d841376ee8aede )
 )
 
 game (
         name "Millennium 2.2"
         description "Millennium 2.2"
-        rom ( name "Millennium22_v1.4_0537.lha" size 448510 crc E50D88A0 sha1 b116176e91d67716942b83a123bf6311ea6acaa4 )
+        rom ( name "Millennium22_v1.5_0537.lha" size 448608 crc F649C2D2 sha1 a2b4fc6e77f8d4d4a9135bf1aaed2e787fd4ce53 )
 )
 
 game (
@@ -13833,7 +14007,7 @@ game (
 game (
         name "Ms Pac-Man 500 (Beta)"
         description "Ms Pac-Man 500 (Beta)"
-        rom ( name "MsPacMan_v1.0.lha" size 182426 crc AB7C8746 sha1 a52dd68991b0fbeb52d0bebdbc8897b6e8e56ff6 )
+        rom ( name "MsPacMan_v1.0.lha" size 0 crc 834D729B sha1 a52dd68991b0fbeb52d0bebdbc8897b6e8e56ff6 )
 )
 
 game (
@@ -14037,7 +14211,7 @@ game (
 game (
         name "Neuromancer"
         description "Neuromancer"
-        rom ( name "Neuromancer_v3.1_2604.lha" size 727736 crc 3288E5DB sha1 2f3c7bbd7fb98bdb752c1f2f902318404382a834 )
+        rom ( name "Neuromancer_v3.4_2604.lha" size 0 crc 129BD15B sha1 090ecc8463ed2233014129dfcf16760537beae1c )
 )
 
 game (
@@ -14109,7 +14283,7 @@ game (
 game (
         name "Nicky 2"
         description "Nicky 2"
-        rom ( name "Nicky2_v1.1.lha" size 608120 crc 9045F52D sha1 4ebb7bbd66f080fcd3bc94979f44a2c5e4ff27cf )
+        rom ( name "Nicky2_v1.2.lha" size 0 crc 1D4B2A34 sha1 a224b028b4b81ca4b5b612225b468fd868e9c664 )
 )
 
 game (
@@ -14289,25 +14463,25 @@ game (
 game (
         name "North & South (Files)"
         description "North & South (Files)"
-        rom ( name "NorthAndSouth_v2.1_Files_0194.lha" size 573746 crc 93B4E261 sha1 a828244a477b438ff68529d77d8387da2b9de6df )
+        rom ( name "NorthAndSouth_v2.2_Files_0194.lha" size 570622 crc 8322C8E5 sha1 f5e3c84929242b076a7f019621fd527799f6e22e )
 )
 
 game (
         name "North & South (Files) (NTSC)"
         description "North & South (Files) (NTSC)"
-        rom ( name "NorthAndSouth_v2.1_Files_NTSC_1780.lha" size 561425 crc 4E925883 sha1 60c7453b3267858bc8868c0e542b67ae5ba675dd )
+        rom ( name "NorthAndSouth_v2.2_Files_NTSC_1780.lha" size 558222 crc B664DE26 sha1 84f432025d0dd8259f16bbd669a71879c5c2f954 )
 )
 
 game (
         name "North & South (Image)"
         description "North & South (Image)"
-        rom ( name "NorthAndSouth_v2.1_Image_0194.lha" size 601910 crc B1A19FDB sha1 3343788f754196ff838e0aa65a6b98a7f034fec6 )
+        rom ( name "NorthAndSouth_v2.2_Image_0194.lha" size 600214 crc B9F633AB sha1 9a6c1ac5e397c1ec399d364108a350147bedca5a )
 )
 
 game (
         name "North & South (Image) (NTSC)"
         description "North & South (Image) (NTSC)"
-        rom ( name "NorthAndSouth_v2.1_Image_NTSC_1780.lha" size 567023 crc 8B053131 sha1 9c61675a5e2d74b4fc1195e8f6f8df9d31cbe4c7 )
+        rom ( name "NorthAndSouth_v2.2_Image_NTSC_1780.lha" size 565327 crc C73CA11D sha1 823dee001f26de53a31f99e77c19cbcdf048d8f7 )
 )
 
 game (
@@ -14643,19 +14817,19 @@ game (
 game (
         name "Oscar"
         description "Oscar"
-        rom ( name "Oscar_v2.3_1228.lha" size 1334511 crc 7667D4F1 sha1 405900476ab8206a7c6346473690410a7c18b979 )
+        rom ( name "Oscar_v2.5_1228.lha" size 0 crc B2E06769 sha1 ccffc3127018957157291e2f09b26982585e2bca )
 )
 
 game (
         name "Oscar (AGA)"
         description "Oscar (AGA)"
-        rom ( name "Oscar_v2.3_AGA_1095.lha" size 1824731 crc B75E2F84 sha1 8365fc1f218c65429aafb6074f92d3a25b49c006 )
+        rom ( name "Oscar_v2.5_AGA_1095.lha" size 0 crc 9603856A sha1 51331fd4bfca6f2792d17e9e4e7eed4c979c29eb )
 )
 
 game (
         name "Oscar (CD32)"
         description "Oscar (CD32)"
-        rom ( name "Oscar_v2.3_CD32.lha" size 2002312 crc B1768FDB sha1 578d4e8a322ba6d4429c2cc07614a9c1f652afee )
+        rom ( name "Oscar_v2.5_CD32.lha" size 0 crc 05D1F6A0 sha1 bd09446c432ee97fc74096d61c847afecce1a30d )
 )
 
 game (
@@ -14805,7 +14979,7 @@ game (
 game (
         name "Pac-Mania"
         description "Pac-Mania"
-        rom ( name "PacMania_v1.0_1117.lha" size 307718 crc 848A2792 sha1 27e8d4fdfc44d806bac705673b494d6d7f5b32be )
+        rom ( name "PacMania_v1.1_1117.lha" size 0 crc 6572C9E8 sha1 f3eab17157a4cecac7bd639e2c42ef9fefbf5c8c )
 )
 
 game (
@@ -14883,13 +15057,13 @@ game (
 game (
         name "Paradroid 90 (1MB)"
         description "Paradroid 90 (1MB)"
-        rom ( name "Paradroid90_v0401.1_1MB_0692.lha" size 534797 crc B787A3BF sha1 a9832df1c2879d676eb4af98f10b3fde138e2445 )
+        rom ( name "Paradroid90_v3.0.0_1MB_0692.lha" size 531300 crc FC145C45 sha1 a2e6b7693e3124691e072e86e706238b0855ff8e )
 )
 
 game (
         name "Paradroid 90 (512KB)"
         description "Paradroid 90 (512KB)"
-        rom ( name "Paradroid90_v0401.1_512KB_0692.lha" size 534745 crc 855DA4D1 sha1 e752c920acf74b9176d76fc8c295e39db61ca87b )
+        rom ( name "Paradroid90_v3.0.0_512KB_0692.lha" size 531317 crc 18B7A933 sha1 6a7625d5d1affac871ca32a674e653905bc945cd )
 )
 
 game (
@@ -15577,9 +15751,15 @@ game (
 )
 
 game (
+        name "Pooyan (Beta)"
+        description "Pooyan (Beta)"
+        rom ( name "Pooyan_v1.0.lha" size 0 crc 3BA2968D sha1 1ace0330fd8edf8415155a6ef70318fea7f7d976 )
+)
+
+game (
         name "Pop-Up"
         description "Pop-Up"
-        rom ( name "PopUp_v1.0.lha" size 231974 crc F1EFADCA sha1 7339ea5262e14654e83529f4726399dd8450e2ab )
+        rom ( name "PopUp_v1.0a.lha" size 0 crc 9DCDF6BE sha1 4afd94192406f81ea117681d5642360122330cce )
 )
 
 game (
@@ -15711,7 +15891,7 @@ game (
 game (
         name "Powermonger"
         description "Powermonger"
-        rom ( name "Powermonger_v1.3_0081.lha" size 742691 crc 0B179872 sha1 7e30df93679f008bf73bfb2c0d9311a20f32f3e7 )
+        rom ( name "Powermonger_v1.4.1_0081.lha" size 1710163 crc 02155F45 sha1 525251a05b58b87e768a09da43449a548629a0b6 )
 )
 
 game (
@@ -15771,7 +15951,13 @@ game (
 game (
         name "Predator 2"
         description "Predator 2"
-        rom ( name "Predator2_v1.1.lha" size 1245318 crc 8C98BB5B sha1 05d7f61530d34f455ce8df31ac4c42b247a9e2ba )
+        rom ( name "Predator2_v1.2_0274.lha" size 0 crc 68693009 sha1 1b1e0937cafd31f6f2cdae22a6f13cf820b74de0 )
+)
+
+game (
+        name "Predator 2 (NTSC)"
+        description "Predator 2 (NTSC)"
+        rom ( name "Predator2_v1.2_NTSC.lha" size 0 crc 508F6CA7 sha1 8425a737382fb69309f46233fbb95a4adf1ee9c9 )
 )
 
 game (
@@ -16107,7 +16293,7 @@ game (
 game (
         name "Quadralien"
         description "Quadralien"
-        rom ( name "Quadralien_v1.0_0918.lha" size 178206 crc 4ABB8509 sha1 78b16a67235b86ad82f132bbe78a52b053d8943f )
+        rom ( name "Quadralien_v1.1_0918.lha" size 173546 crc 70F7BED6 sha1 5d1eb1d22e1d8a7e51825e9e1be94bf5a72be6b0 )
 )
 
 game (
@@ -16186,6 +16372,12 @@ game (
         name "Quete L'Oiseau Du Temp (Image) (French)"
         description "Quete L'Oiseau Du Temp (Image) (French)"
         rom ( name "QueteDeLOiseauDuTemp_v1.5_Fr_Image_2343.lha" size 1141081 crc 4D521ADB sha1 54e0e464d53f10d9f11e5c23103c7f491460923d )
+)
+
+game (
+        name "Quicksilva (PD)"
+        description "Quicksilva (PD)"
+        rom ( name "Quicksilva_v1.0.lha" size 1513201 crc B93CE16E sha1 6955d42f4e4e399d7354c33cd3f5e5782bae9ac2 )
 )
 
 game (
@@ -16443,7 +16635,7 @@ game (
 game (
         name "Rectangle"
         description "Rectangle"
-        rom ( name "Rectangle_v1.0.lha" size 816940 crc A2DE5FBA sha1 301a3ab0d1219f4d7469869442db4a45d32137c9 )
+        rom ( name "Rectangle_v1.0.lha" size 0 crc A2DE5FBA sha1 301a3ab0d1219f4d7469869442db4a45d32137c9 )
 )
 
 game (
@@ -16555,6 +16747,18 @@ game (
 )
 
 game (
+        name "Renegades (Beta) (PD)"
+        description "Renegades (Beta) (PD)"
+        rom ( name "Renegades_v1.0_PublicDomain.lha" size 558763 crc C47F0788 sha1 0f536d82b71bf1f018e716073d90b3b42999b4a6 )
+)
+
+game (
+        name "Renegades Deluxe (Beta) (PD)"
+        description "Renegades Deluxe (Beta) (PD)"
+        rom ( name "RenegadesDeluxe_v1.0_PublicDomain.lha" size 511746 crc B85943FE sha1 9260bafb735cc15d2d8a7567db0f691950f13d70 )
+)
+
+game (
         name "Resolution 101"
         description "Resolution 101"
         rom ( name "Resolution101_v2.1_0221.lha" size 296049 crc BB2FCAB1 sha1 9fb7aba609aa9acdcb0736baa3702a0be712e52e )
@@ -16603,9 +16807,9 @@ game (
 )
 
 game (
-        name "Revenge Of Defender"
-        description "Revenge Of Defender"
-        rom ( name "RevengeOfDefender_v1.0.lha" size 973629 crc 49E36D33 sha1 baab4b4d9010e1cc321a9818fdee43601f5b1457 )
+        name "Revenge Of Defender (NTSC)"
+        description "Revenge Of Defender (NTSC)"
+        rom ( name "RevengeOfDefender_v1.0_NTSC.lha" size 0 crc A9C17197 sha1 95dca3fb6f0a48def49ccbd13ce48bd54497888d )
 )
 
 game (
@@ -16809,13 +17013,25 @@ game (
 game (
         name "RoboCop"
         description "RoboCop"
-        rom ( name "RoboCop_v1.2_2066.lha" size 430148 crc 119FF015 sha1 f0fbf663ef8477c79f184cca2de3d74cb43884f6 )
+        rom ( name "RoboCop_v1.3_2066.lha" size 0 crc ADE9FB65 sha1 4fb6ae889da23e3c0e489eaf0ca2b1a3b1ce5655 )
+)
+
+game (
+        name "RoboCop (NTSC)"
+        description "RoboCop (NTSC)"
+        rom ( name "RoboCop_v1.3_NTSC.lha" size 0 crc E58E24B3 sha1 2d57d49224fe1f2b22eca858712c4db9479fbb92 )
 )
 
 game (
         name "RoboCop 2"
         description "RoboCop 2"
-        rom ( name "RoboCop2_v1.2_1220.lha" size 1075377 crc F7C4661B sha1 d19e4b7ff617162856c5c1151661d39c06291bcd )
+        rom ( name "RoboCop2_v1.2_1220.lha" size 0 crc C2D9E964 sha1 0014de6b38e11e81534a1269754c45d457922d45 )
+)
+
+game (
+        name "RoboCop 2 (NTSC)"
+        description "RoboCop 2 (NTSC)"
+        rom ( name "RoboCop2_v1.2_NTSC.lha" size 0 crc 448A1EAD sha1 51309047e24aac3e14e4d098cd51cc66b2e283ab )
 )
 
 game (
@@ -17071,15 +17287,15 @@ game (
 )
 
 game (
-        name "Ruff'N'Tumble"
-        description "Ruff'N'Tumble"
-        rom ( name "RuffNTumble_v2.7_0199.lha" size 1535167 crc 1B46EC06 sha1 14793033e0892daca25190b87bb04e8ea99c5bc8 )
+        name "Ruff 'N' Tumble"
+        description "Ruff 'N' Tumble"
+        rom ( name "RuffNTumble_v2.8_0199.lha" size 0 crc 020AE773 sha1 6b4012594cd5ae39153f0389772e5bdd90700044 )
 )
 
 game (
-        name "Ruff'N'Tumble (512KB)"
-        description "Ruff'N'Tumble (512KB)"
-        rom ( name "RuffNTumble_v2.7_512k_0199.lha" size 1535226 crc 158CC8EB sha1 53fec02f058c3f6610c2c229efd4b2bab62484de )
+        name "Ruff 'N' Tumble (512k) (512k)"
+        description "Ruff 'N' Tumble (512k) (512k)"
+        rom ( name "RuffNTumble_v2.8_512k_0199.lha" size 0 crc 0CA472E5 sha1 4b4153127383e5f9983ceb00271fac3a065923c3 )
 )
 
 game (
@@ -17403,7 +17619,7 @@ game (
 game (
         name "Seelenturm, Der (AGA) (German)"
         description "Seelenturm, Der (AGA) (German)"
-        rom ( name "Seelenturm_v1.0_AGA_De.lha" size 2490496 crc C1DF371E sha1 c9e0220791789d3d2fac52a619f321d205db9eb5 )
+        rom ( name "Seelenturm_v1.0_AGA_De.lha" size 0 crc C1DF371E sha1 c9e0220791789d3d2fac52a619f321d205db9eb5 )
 )
 
 game (
@@ -17533,6 +17749,12 @@ game (
 )
 
 game (
+        name "Sensible World Of Soccer 24-25"
+        description "Sensible World Of Soccer 24-25"
+        rom ( name "SensibleWorldOfSoccer2425_v2.3.lha" size 1568183 crc 192E6797 sha1 da344b98bf01ca31ffbc645557acc3173c3a12fe )
+)
+
+game (
         name "Sensible World Of Soccer 95-96"
         description "Sensible World Of Soccer 95-96"
         rom ( name "SensibleWorldOfSoccer9596_v2.3_1755.lha" size 1313753 crc 3998DC95 sha1 d3b0be8c972d509a51f1e765dd22e923bfb33b2c )
@@ -17619,7 +17841,7 @@ game (
 game (
         name "Sexy Droids"
         description "Sexy Droids"
-        rom ( name "SexyDroids_v1.0.lha" size 571527 crc 82BB9959 sha1 932dc38bb423492965b82ec47b17527c1bae8206 )
+        rom ( name "SexyDroids_v1.0.lha" size 0 crc 82BB9959 sha1 932dc38bb423492965b82ec47b17527c1bae8206 )
 )
 
 game (
@@ -17655,7 +17877,7 @@ game (
 game (
         name "Shadow Fighter (No Jump) (Beta) (AGA)"
         description "Shadow Fighter (No Jump) (Beta) (AGA)"
-        rom ( name "ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha" size 3343922 crc 7C2ED7BC sha1 dacc1d626ae079b55e649779a9c5f11de51a3280 )
+        rom ( name "ShadowFighter_v1.0_AGA_No_jump_by_ztronzo.lha" size 0 crc 7C2ED7BC sha1 dacc1d626ae079b55e649779a9c5f11de51a3280 )
 )
 
 game (
@@ -17668,6 +17890,12 @@ game (
         name "Shadow Of The Beast (Game Demo)"
         description "Shadow Of The Beast (Game Demo)"
         rom ( name "ShadowOfTheBeastDemo_v1.0.lha" size 679506 crc 9BFD48B9 sha1 416bac48808bb62b15bc605370ecab0380421a85 )
+)
+
+game (
+        name "Shadow Of The Beast (NTSC)"
+        description "Shadow Of The Beast (NTSC)"
+        rom ( name "ShadowOfTheBeast_v2.6_NTSC.lha" size 0 crc D5A9027C sha1 b91929ad3ff8487d9ef793de3de054a0ed46b1d4 )
 )
 
 game (
@@ -18163,6 +18391,18 @@ game (
 )
 
 game (
+        name "Sinbad and the Throne of the Falcon (ST Port) (Beta)"
+        description "Sinbad and the Throne of the Falcon (ST Port) (Beta)"
+        rom ( name "Sinbad_v1.0_AtariST.lha" size 593343 crc 005DFB3E sha1 5bf6617dd28311d05ea1ab80fafbd1af7bb91913 )
+)
+
+game (
+        name "Sinbad and the Throne of the Falcon (ST Port) (Beta) (French)"
+        description "Sinbad and the Throne of the Falcon (ST Port) (Beta) (French)"
+        rom ( name "Sinbad_v1.0_Fr_AtariST.lha" size 595216 crc 8EB1C153 sha1 ebd4cf38a1ab160e22b688f4120a31f853790113 )
+)
+
+game (
         name "Sink Or Swim"
         description "Sink Or Swim"
         rom ( name "SinkOrSwim_v1.2_1065.lha" size 578499 crc A787065F sha1 4ff9d2b19ce814877c664c6d44a59272f06d0b58 )
@@ -18403,9 +18643,9 @@ game (
 )
 
 game (
-        name "Smarty And The Nasty Gluttons"
-        description "Smarty And The Nasty Gluttons"
-        rom ( name "SmartyAndTheNastyGluttons_v1.0.lha" size 918758 crc E9298E60 sha1 fbcec991ee7af6453e3461fa0c588426a33d1007 )
+        name "Smarty & The Nasty Gluttons"
+        description "Smarty & The Nasty Gluttons"
+        rom ( name "Smarty&TheNastyGluttons_v1.1.lha" size 0 crc E215B866 sha1 c03825c551f473a58090b3edb0d274c97b616f1c )
 )
 
 game (
@@ -18669,7 +18909,7 @@ game (
 game (
         name "Space Harrier 2"
         description "Space Harrier 2"
-        rom ( name "SpaceHarrier2_v1.0_1121.lha" size 381549 crc E7E4A0BA sha1 4790bce8554b76e552b8cfcb8573b2f87349f83d )
+        rom ( name "SpaceHarrier2_v2.1_1121.lha" size 0 crc 759CDC44 sha1 8575d08c25c4b00f7eb0166b512623013475a3d1 )
 )
 
 game (
@@ -19053,19 +19293,19 @@ game (
 game (
         name "Sqrxz 2 - Two Seconds Until Death (PD)"
         description "Sqrxz 2 - Two Seconds Until Death (PD)"
-        rom ( name "Sqrxz2_v1.0.lha" size 227824 crc 97E642F1 sha1 5822a4fdb56d42249a701f8a1921a13e4fdc5c57 )
+        rom ( name "Sqrxz2_v1.0.lha" size 0 crc 97E642F1 sha1 5822a4fdb56d42249a701f8a1921a13e4fdc5c57 )
 )
 
 game (
         name "Sqrxz 3 - Adventure For Love (PD)"
         description "Sqrxz 3 - Adventure For Love (PD)"
-        rom ( name "Sqrxz3_v1.0.lha" size 429797 crc 3F389EA8 sha1 006556082928fc2ea9ce476552c91edbb30ac2dc )
+        rom ( name "Sqrxz3_v1.0.lha" size 0 crc 3F389EA8 sha1 006556082928fc2ea9ce476552c91edbb30ac2dc )
 )
 
 game (
         name "Sqrxz 4 - Cold Cash (PD)"
         description "Sqrxz 4 - Cold Cash (PD)"
-        rom ( name "Sqrxz4_v1.0.lha" size 422466 crc 770379D1 sha1 089a44c857dd341612ddd32e00cd61b50eccba88 )
+        rom ( name "Sqrxz4_v1.0.lha" size 0 crc 770379D1 sha1 089a44c857dd341612ddd32e00cd61b50eccba88 )
 )
 
 game (
@@ -19287,7 +19527,7 @@ game (
 game (
         name "Steigar"
         description "Steigar"
-        rom ( name "Steigar_v1.1_2120.lha" size 256278 crc EC0994CE sha1 b3777fe8fe0ce7c051d8aa4633f7e17757d733b6 )
+        rom ( name "Steigar_v1.1_2120.lha" size 0 crc EC0994CE sha1 b3777fe8fe0ce7c051d8aa4633f7e17757d733b6 )
 )
 
 game (
@@ -19603,9 +19843,9 @@ game (
 )
 
 game (
-        name "Summer Challenge"
-        description "Summer Challenge"
-        rom ( name "SummerChallenge_v1.1.lha" size 384886 crc 4681870E sha1 fa1800721c74b78fc1ade2100a99afecb42e2086 )
+        name "Summer Challenge (NTSC)"
+        description "Summer Challenge (NTSC)"
+        rom ( name "SummerChallenge_v1.1_NTSC.lha" size 0 crc D3044304 sha1 1573033d85f1130f4ff3e5d7ef7a2c79259bf690 )
 )
 
 game (
@@ -19635,7 +19875,7 @@ game (
 game (
         name "Summer Olympix (Beta) (CD32)"
         description "Summer Olympix (Beta) (CD32)"
-        rom ( name "SummerOlympix_v1.0_CD32_BETA.lha" size 1538009 crc FAB1093B sha1 954ee82ccf94ff77e51cec1b76663ab1115af4ca )
+        rom ( name "SummerOlympix_v1.0_CD32_BETA.lha" size 0 crc FAB1093B sha1 954ee82ccf94ff77e51cec1b76663ab1115af4ca )
 )
 
 game (
@@ -19695,7 +19935,7 @@ game (
 game (
         name "Super Gem Z"
         description "Super Gem Z"
-        rom ( name "SuperGemZ_v1.1.lha" size 936405 crc E1473986 sha1 eb8fc55aa972ba3c085a3ade8ed5f134da02c7d0 )
+        rom ( name "SuperGemZ_v1.1.lha" size 0 crc E1473986 sha1 eb8fc55aa972ba3c085a3ade8ed5f134da02c7d0 )
 )
 
 game (
@@ -19953,7 +20193,7 @@ game (
 game (
         name "Superfrog"
         description "Superfrog"
-        rom ( name "Superfrog_v1.5_0035.lha" size 2792111 crc F6B02906 sha1 9cfb6fcb14c60ac55551892e4bad1d3b673196b9 )
+        rom ( name "Superfrog_v1.6_0035.lha" size 0 crc 8B5C0794 sha1 69f65bf8f628bbde79b92b7ab4e3858bc5e55b92 )
 )
 
 game (
@@ -19965,7 +20205,7 @@ game (
 game (
         name "Superfrog (CD32)"
         description "Superfrog (CD32)"
-        rom ( name "Superfrog_v1.5_CD32.lha" size 3346233 crc DFC2BAEE sha1 7f359ad449adf9496942dab0bef4789b4d31537b )
+        rom ( name "Superfrog_v1.6_CD32.lha" size 0 crc 02063A64 sha1 09f6767d1a9fcd71bf249e08897fc31407b76a44 )
 )
 
 game (
@@ -20203,6 +20443,12 @@ game (
 )
 
 game (
+        name "Tapper"
+        description "Tapper"
+        rom ( name "Tapper_v1.0.lha" size 0 crc 8E2FFD1D sha1 df2395defa583810e5a62ed64b9e059d6f95d739 )
+)
+
+game (
         name "Targhan"
         description "Targhan"
         rom ( name "Targhan_v1.4_1859.lha" size 519309 crc 5D14976B sha1 1f9d5e9fea138ce88ab1ba08f69b8ba51ae12106 )
@@ -20259,13 +20505,19 @@ game (
 game (
         name "Tech - The Race Against the Targanoids"
         description "Tech - The Race Against the Targanoids"
-        rom ( name "Tech_v1.1.lha" size 143623 crc 61E0CF82 sha1 22348b9558c331f717d501f629993ba22f296040 )
+        rom ( name "Tech_v1.1.lha" size 0 crc 61E0CF82 sha1 22348b9558c331f717d501f629993ba22f296040 )
 )
 
 game (
-        name "Technocop"
-        description "Technocop"
+        name "Techno Cop"
+        description "Techno Cop"
         rom ( name "Technocop_v1.2.lha" size 446317 crc 2C30A918 sha1 4f58aab7052c11e9f880a92934ae75a1119bfa65 )
+)
+
+game (
+        name "Techno Cop (NTSC)"
+        description "Techno Cop (NTSC)"
+        rom ( name "Technocop_v1.2_NTSC.lha" size 449398 crc FD5D4553 sha1 222282ab3887cfb7d18bb1bcff1aefd1015edccc )
 )
 
 game (
@@ -20433,7 +20685,7 @@ game (
 game (
         name "Tetris 1200 (Beta) (AGA)"
         description "Tetris 1200 (Beta) (AGA)"
-        rom ( name "Tetris_v1.1_AGA.lha" size 178410 crc FBAFAA44 sha1 f6641f418e81870f5ca78b61442b7ce3d80ad7da )
+        rom ( name "Tetris_v1.1_AGA.lha" size 0 crc FBAFAA44 sha1 f6641f418e81870f5ca78b61442b7ce3d80ad7da )
 )
 
 game (
@@ -20590,6 +20842,12 @@ game (
         name "Thexder"
         description "Thexder"
         rom ( name "Thexder_v1.2_0392.lha" size 184472 crc 20757AE7 sha1 5a6b443f41c694ed6d94447dfa243793a4b049d0 )
+)
+
+game (
+        name "Think Twice"
+        description "Think Twice"
+        rom ( name "ThinkTwice_v1.0_1695.lha" size 216378 crc 6E7AAA34 sha1 a6ff6951aec4bb5dfdb9249bbde494d3285e8d70 )
 )
 
 game (
@@ -21087,7 +21345,7 @@ game (
 game (
         name "Titus The Fox - To Marrakech And Back"
         description "Titus The Fox - To Marrakech And Back"
-        rom ( name "TitusTheFox_v2.3_0226.lha" size 730904 crc 5189CD23 sha1 18881d2b8291d93a03205298ed9bf5abe3f2e345 )
+        rom ( name "TitusTheFox_v2.3_0226.lha" size 0 crc 8899F593 sha1 9e755f1690c3fb78c3319757bf6d369af5510901 )
 )
 
 game (
@@ -21201,7 +21459,7 @@ game (
 game (
         name "Top Wrestling"
         description "Top Wrestling"
-        rom ( name "TopWrestling_v1.1.lha" size 1643583 crc 7103CF5D sha1 4e95c1c3ae6ad92bd36fba21bb4ef501e4ae6cc4 )
+        rom ( name "TopWrestling_v1.1.lha" size 1643535 crc EA667CDE sha1 8d1c6edc0aa1de5f604cef04c8135448795e4f12 )
 )
 
 game (
@@ -21279,7 +21537,7 @@ game (
 game (
         name "Tower Of Souls (AGA)"
         description "Tower Of Souls (AGA)"
-        rom ( name "TowerOfSouls_v1.0_AGA_2212.lha" size 2493873 crc 305E1F56 sha1 95f913351b1cab217122c7c1f4da0e1219c84469 )
+        rom ( name "TowerOfSouls_v1.0_AGA_2212.lha" size 0 crc 305E1F56 sha1 95f913351b1cab217122c7c1f4da0e1219c84469 )
 )
 
 game (
@@ -21349,9 +21607,21 @@ game (
 )
 
 game (
+        name "Transarctica (Spanish)"
+        description "Transarctica (Spanish)"
+        rom ( name "Transarctica_v1.4_Es.lha" size 1274033 crc 0ED416C2 sha1 cbf0ca386b4823406de3c4b3ac81bd810fe1198f )
+)
+
+game (
         name "Transplant (Coverdisk) (PD)"
         description "Transplant (Coverdisk) (PD)"
         rom ( name "Transplant_v1.01.lha" size 198960 crc 68B61700 sha1 09aa5369e568605221044453c7d185519d6b80d5 )
+)
+
+game (
+        name "Transputor"
+        description "Transputor"
+        rom ( name "Transputor_v1.0_0395.lha" size 172204 crc CC23D7CB sha1 39d85a5fbeca5258d6403f1295bb2c9ff5e28533 )
 )
 
 game (
@@ -21393,7 +21663,7 @@ game (
 game (
         name "Treasure Trap"
         description "Treasure Trap"
-        rom ( name "TreasureTrap_v1.01_1731.lha" size 723449 crc 453A0756 sha1 638751a67bac3dd8ac7d510f2db27b0557d4b9d7 )
+        rom ( name "TreasureTrap_v1.02_1731.lha" size 0 crc C7DC24BB sha1 b2112cc4cae0c0753d750074eb31589aec130e2e )
 )
 
 game (
@@ -21405,7 +21675,7 @@ game (
 game (
         name "Trex Warrior"
         description "Trex Warrior"
-        rom ( name "TrexWarrior_v1.1_3056.lha" size 617744 crc 99D9E989 sha1 34332d100e24c69fcedae77cd331b96bdce59868 )
+        rom ( name "TrexWarrior_v1.1_3056.lha" size 0 crc 99D9E989 sha1 34332d100e24c69fcedae77cd331b96bdce59868 )
 )
 
 game (
@@ -21489,19 +21759,19 @@ game (
 game (
         name "Trolls"
         description "Trolls"
-        rom ( name "Trolls_v1.2.lha" size 1447516 crc 8989DDB0 sha1 40092bd9316da0ec2ef3baabd0ab16a17a48a17f )
+        rom ( name "Trolls_v2.1.lha" size 0 crc 73579E96 sha1 7286df47a261e524cedf489fe7912ebf77ddb5d1 )
 )
 
 game (
         name "Trolls (AGA)"
         description "Trolls (AGA)"
-        rom ( name "Trolls_v1.2_AGA_0996.lha" size 1707171 crc 6656E8E9 sha1 24bc4a6a329a55036a570f095380010129157de9 )
+        rom ( name "Trolls_v2.1_AGA_0155.lha" size 0 crc 7D9CA8D7 sha1 2cf1a691284637653608baed274508335b1d97f9 )
 )
 
 game (
         name "Trolls (CD32)"
         description "Trolls (CD32)"
-        rom ( name "Trolls_v1.3_CD32.lha" size 1508308 crc 26447CBB sha1 0c6d6c172ee6570c2228477e10a0955f3dcd6d45 )
+        rom ( name "Trolls_v2.1_CD32.lha" size 0 crc 15A7B6BA sha1 bdcd6ba806b750646789438319b38e87cf76bff8 )
 )
 
 game (
@@ -21513,19 +21783,19 @@ game (
 game (
         name "Tubular Worlds"
         description "Tubular Worlds"
-        rom ( name "TubularWorlds_v1.2.lha" size 1318761 crc F7D105ED sha1 6baa2c032d91e25b423d27544d7a5b6f98efc949 )
+        rom ( name "TubularWorlds_v1.2.lha" size 0 crc F7D105ED sha1 6baa2c032d91e25b423d27544d7a5b6f98efc949 )
 )
 
 game (
         name "Tubular Worlds (512k)"
         description "Tubular Worlds (512k)"
-        rom ( name "TubularWorlds_v1.2_512k.lha" size 1319200 crc 6EBC811D sha1 b7e66b3780d01e6d3470da46ec8f5abbef23405b )
+        rom ( name "TubularWorlds_v1.2_512k.lha" size 0 crc 6EBC811D sha1 b7e66b3780d01e6d3470da46ec8f5abbef23405b )
 )
 
 game (
         name "Tubular Worlds (AGA)"
         description "Tubular Worlds (AGA)"
-        rom ( name "TubularWorlds_v1.2_AGA.lha" size 1700579 crc C2427A43 sha1 851bff6f9a2b032dbacfc86f7b57f5bccb1f1bbd )
+        rom ( name "TubularWorlds_v1.2_AGA.lha" size 0 crc C2427A43 sha1 851bff6f9a2b032dbacfc86f7b57f5bccb1f1bbd )
 )
 
 game (
@@ -21615,7 +21885,7 @@ game (
 game (
         name "Turrican 2 - The Final Fight"
         description "Turrican 2 - The Final Fight"
-        rom ( name "Turrican2_v2.2_0029.lha" size 1056730 crc 0C9B6F4D sha1 256185084db3d42d845acb180fbe8782ed93acd3 )
+        rom ( name "Turrican2_v2.3_0029.lha" size 0 crc 7FCB6588 sha1 70b5008ab299f80eff372e0727e483c755b648aa )
 )
 
 game (
@@ -21627,7 +21897,7 @@ game (
 game (
         name "Turrican 2 - The Final Fight (CDTV)"
         description "Turrican 2 - The Final Fight (CDTV)"
-        rom ( name "Turrican2_v2.2_CDTV.lha" size 1109032 crc E1FE6282 sha1 0812d37d8d47e2161614b9a33b457d4c829be9e4 )
+        rom ( name "Turrican2_v2.3_CDTV.lha" size 0 crc 6ABCE44D sha1 816a655fedd98ffe0ee6b293b4b647c96fa711e1 )
 )
 
 game (
@@ -21957,13 +22227,13 @@ game (
 game (
         name "Uridium 2 (1MB)"
         description "Uridium 2 (1MB)"
-        rom ( name "Uridium2_v0801.1_1MB_1526.lha" size 1237126 crc F364EED4 sha1 5acce4c7e6428cf5778961288f9c10ecde344874 )
+        rom ( name "Uridium2_v3.1.0_1MB_0276.lha" size 1237738 crc 09EA37D8 sha1 d95eaf76ddab14c8ab3f3a6fdffe34dfed4843b5 )
 )
 
 game (
         name "Uridium 2 (2MB)"
         description "Uridium 2 (2MB)"
-        rom ( name "Uridium2_v0801.1_2MB_1526.lha" size 1237123 crc 94947B37 sha1 19d7cfcc8299f636269820fa8293381bbe81fdc3 )
+        rom ( name "Uridium2_v3.1.0_2MB_0276.lha" size 1237740 crc 146105CD sha1 d23cae0a9dfb544f316481a8f45dec06991fb5b4 )
 )
 
 game (
@@ -22125,7 +22395,7 @@ game (
 game (
         name "Violator"
         description "Violator"
-        rom ( name "Violator_v2.1_2658.lha" size 301411 crc 434F4DDD sha1 5a5cb1eb47516124b0a3c857342045b215122c36 )
+        rom ( name "Violator_v2.1_2658.lha" size 0 crc 434F4DDD sha1 5a5cb1eb47516124b0a3c857342045b215122c36 )
 )
 
 game (
@@ -22293,24 +22563,24 @@ game (
 game (
         name "Walker"
         description "Walker"
+        rom ( name "Walker_v1.1_0159.lha" size 2028289 crc C642C12D sha1 26baadd060b4ff6f334bf3b1c02bb3a5d3a64c41 )
+)
+
+game (
+        name "Walker (Crunched)"
+        description "Walker (Crunched)"
         rom ( name "Walker_v1.1_Crunched_0159.lha" size 2078147 crc 5F25792A sha1 f163c8fc0d195a7424edc6a87d5d7def7a059db8 )
+)
+
+game (
+        name "Walker (Crunched) (No Speech)"
+        description "Walker (Crunched) (No Speech)"
+        rom ( name "Walker_v1.1_Crunched_NoSpeech_0159.lha" size 2078485 crc 6227B915 sha1 e4e199bc015954eb84e1b1a055638419bfd4852e )
 )
 
 game (
         name "Walker (No Speech)"
         description "Walker (No Speech)"
-        rom ( name "Walker_v1.1_Crunched_NoSpeech_0159.lha" size 2078485 crc 6227B915 sha1 e4e199bc015954eb84e1b1a055638419bfd4852e )
-)
-
-game (
-        name "Walker Decrunched"
-        description "Walker Decrunched"
-        rom ( name "Walker_v1.1_0159.lha" size 2028289 crc C642C12D sha1 26baadd060b4ff6f334bf3b1c02bb3a5d3a64c41 )
-)
-
-game (
-        name "Walker Decrunched (No Speech)"
-        description "Walker Decrunched (No Speech)"
         rom ( name "Walker_v1.1_NoSpeech_0159.lha" size 2028621 crc CB4E92F8 sha1 925546e53be7f90cdee3508f6d93065480a62849 )
 )
 
@@ -22653,7 +22923,7 @@ game (
 game (
         name "Willy The Kid (German)"
         description "Willy The Kid (German)"
-        rom ( name "WillyTheKid_v1.0.1_De.lha" size 187490 crc AB1ED538 sha1 6019006d1dd7ccddc01564ba7a6d4103bded0ce5 )
+        rom ( name "WillyTheKid_v1.0.1_De.lha" size 0 crc AB1ED538 sha1 6019006d1dd7ccddc01564ba7a6d4103bded0ce5 )
 )
 
 game (
@@ -22701,7 +22971,7 @@ game (
 game (
         name "Windwalker (NTSC)"
         description "Windwalker (NTSC)"
-        rom ( name "Windwalker_v1.02_NTSC_1391.lha" size 555834 crc A9159D97 sha1 7e84aeb6c3d17db6397f7ca35d2fd051bbf2ac39 )
+        rom ( name "Windwalker_v1.02_NTSC_1391.lha" size 0 crc A9159D97 sha1 7e84aeb6c3d17db6397f7ca35d2fd051bbf2ac39 )
 )
 
 game (
@@ -22825,9 +23095,9 @@ game (
 )
 
 game (
-        name "Wiz'n'Liz"
-        description "Wiz'n'Liz"
-        rom ( name "WizNLiz_v2.1_0749.lha" size 929302 crc E261A677 sha1 ec8fcce03c9dce17841aa32c232f17919476728a )
+        name "Wiz 'n' Liz"
+        description "Wiz 'n' Liz"
+        rom ( name "WizNLiz_v2.21_0749.lha" size 0 crc 8A97A49B sha1 be089975803ce360cc879613789d61b9409099d0 )
 )
 
 game (
@@ -22861,6 +23131,12 @@ game (
 )
 
 game (
+        name "Wizmo"
+        description "Wizmo"
+        rom ( name "Wizmo_v1.0.lha" size 341122 crc 4E9CBFAF sha1 231a6212c4d5eead6cc1ecc732001274b7665971 )
+)
+
+game (
         name "Wolfchild"
         description "Wolfchild"
         rom ( name "Wolfchild_v1.2_0411.lha" size 1301913 crc 3C7E51C5 sha1 f2f659ba969e77af90fd40e3f5d01a024f60e0f3 )
@@ -22875,7 +23151,7 @@ game (
 game (
         name "Wonder Dog"
         description "Wonder Dog"
-        rom ( name "WonderDog_v1.2_1201.lha" size 1317132 crc F74ED9BE sha1 268f9c50a37a9fe1a42e8699c1e1b1298c00b390 )
+        rom ( name "WonderDog_v1.3_1201.lha" size 0 crc 573141CD sha1 c6b96bb3f05fcbc3fca00a4114429bcea35f26bb )
 )
 
 game (
@@ -23157,7 +23433,19 @@ game (
 game (
         name "Xenomorph"
         description "Xenomorph"
-        rom ( name "Xenomorph_v1.1_0296.lha" size 639223 crc DF2162C1 sha1 a3b3e8bebadfb85a69111ea5ab071903f1a20c57 )
+        rom ( name "Xenomorph_v2.0_0296.lha" size 694451 crc 92C91BCF sha1 17a359a7799ba4d008fa5fe734f2288d8206d933 )
+)
+
+game (
+        name "Xenomorph (French)"
+        description "Xenomorph (French)"
+        rom ( name "Xenomorph_v2.0_Fr.lha" size 694772 crc 8A56188B sha1 1525cdd7f30d8749e96ea133947aad9db305d53f )
+)
+
+game (
+        name "Xenomorph (German)"
+        description "Xenomorph (German)"
+        rom ( name "Xenomorph_v2.0_De_2939.lha" size 695014 crc 5A677137 sha1 cc04bf2cf1fdcf196216710b5952b92fe17ab634 )
 )
 
 game (
@@ -23505,7 +23793,7 @@ game (
 game (
         name "Zyconix"
         description "Zyconix"
-        rom ( name "Zyconix_v1.1_1057.lha" size 715814 crc 2102F382 sha1 9a8d20a8333b46c282859d90f4c77c21c4699c15 )
+        rom ( name "Zyconix_v1.2_1057.lha" size 0 crc 2E6EF220 sha1 b2e4c07a6ecb1ff67d9a481446cc4ede1aceda62 )
 )
 
 game (
